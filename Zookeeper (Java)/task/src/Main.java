@@ -1,4 +1,8 @@
+import java.util.Scanner;
+
 public class Main {
+
+    final static String EXIT_CMD = "exit";
     public static void main(String[] args) {
         String camel = """
             Switching on the camera in the camel habitat...
@@ -121,6 +125,23 @@ public class Main {
             (" ~----( ~   Y.  )
             It looks like we will soon have more rabbits!""";
 
-        // write your code here
+        String[] animals = {camel, lion, deer, goose, bat, rabbit};
+
+        Scanner scan = new Scanner(System.in);
+        while (true) {
+            System.out.print("Please enter the number of the habitat you would like to view:");
+
+            if(scan.hasNextInt()){
+                System.out.println();
+                System.out.println(animals[scan.nextInt()]);
+                continue;
+            }
+
+            if(scan.next().equals(EXIT_CMD)){
+                break;
+            }
+        }
+
+        System.out.println("See you later!");
     }
 }

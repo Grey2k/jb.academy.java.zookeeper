@@ -10,9 +10,22 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/Another way" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/Text blocks indentation mechanics" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
             <option value="$PROJECT_DIR$/Zookeeper (Java)/task" />
             <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/classes/java" />
             <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java" />

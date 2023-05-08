@@ -185,6 +185,6 @@ files:
     \ + \"' \" +\n                \"at the end of the program\");\n        }\n\n \
     \       return CheckResult.correct();\n    }\n}"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/229/stages/1150/implement#comment
+feedback_link: https://hyperskill.org/learn/step/17791#comment
 status: Unchecked
 record: -1

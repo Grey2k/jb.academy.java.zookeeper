@@ -6,6 +6,9 @@ files:
     \ textBlock = //write your code here        \n    }\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/27525#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 08 May 2023 16:08:49 UTC"
 record: -1
 submission_language: java17
